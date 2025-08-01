@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "type": "panel",
+  "viewer_summary": "Affiche 'coucou' au centre de l'écran",
+  "config": {
+    "viewer": {
+      "can_interact": false
+    }
+  },
+  "viewer": {
+    "viewer_url": "https://your-cdn-domain.com/index.html"
+  },
+  "permissions": []
+} 
